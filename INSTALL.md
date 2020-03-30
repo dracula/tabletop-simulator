@@ -21,7 +21,7 @@ button_neutral            #474C5A
 
 window_background         #282A36
 control_background        #21222C
-transparent_background    #21222C37
+transparent_background    #21222C7F
 divider                   #6272A4
 
 tab_normal                #44475A
@@ -35,7 +35,7 @@ splash                    #50FA7B
 splash_highlight          #73FB95
 glow                      #000000
 
-context_menu_background   #FFFFFF
+context_menu_background   #282A36
 context_menu_hover        #1C97FF
 context_menu_text         #F8F8F2
 context_menu_highlight    #73FB95
@@ -66,9 +66,9 @@ slider_label              #21222C
 chat_tab_background       #474C5A7F
 chat_tab_highlight        #44475A
 
-chat_output_background    #FFFFFF33
+chat_output_background    #FFFFFF7F
 chat_output_controls      #FFFFFF
-chat_input_background     #FFFFFF33
+chat_input_background     #FFFFFF7F
 chat_input_controls       #FFFFFF
 chat_input_text           #F8F8F2
 
@@ -86,5 +86,5 @@ lua_selection             #8AE8FC95
 high                      #21222C
 low                       #F8F8F2
 hover_highlight           #21222C
-background_tint           #00000000
+background_tint           #0000007F
 ```
